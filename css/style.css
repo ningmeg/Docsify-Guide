@@ -1,0 +1,16 @@
+blockquote{
+    background-color: rgb(206, 240, 230);
+    color: #000000;
+}
+a{
+    cursor: pointer;
+    user-select:none;
+}
+li{
+    cursor: pointer;
+    user-select:none;
+}
+mark{
+    background-color: rgb(200, 219, 217);
+    color: coral;
+}
